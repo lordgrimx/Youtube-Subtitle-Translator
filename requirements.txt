@@ -1,0 +1,5 @@
+youtube-transcript-api==0.6.2
+flask==3.0.0
+flask-cors==4.0.0
+deep-translator==1.11.4
+auto-py-to-exe==2.34.0
